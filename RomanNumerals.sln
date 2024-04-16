@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{ECE97DDA-D528-43F6-AC7F-D85995E48E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralTests", "RomanNumeralTests\RomanNumeralTests.csproj", "{02890F30-4706-47D7-8C46-9AA0DBA7ACD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE97DDA-D528-43F6-AC7F-D85995E48E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE97DDA-D528-43F6-AC7F-D85995E48E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE97DDA-D528-43F6-AC7F-D85995E48E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE97DDA-D528-43F6-AC7F-D85995E48E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02890F30-4706-47D7-8C46-9AA0DBA7ACD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02890F30-4706-47D7-8C46-9AA0DBA7ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02890F30-4706-47D7-8C46-9AA0DBA7ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02890F30-4706-47D7-8C46-9AA0DBA7ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780AB77E-7A01-449F-A877-E24BBA01B2EE}
+	EndGlobalSection
+EndGlobal
