@@ -35,5 +35,23 @@ namespace RomanNumeralTests
             var actual = ctr.ConvertRoman(1);
             actual.Equals(expected);
         }
+
+        [Test]
+        public void ConvertToRomanTest_10_Equals_X()
+        {
+            var expected = "X";
+            var actual = ctr.ConvertRoman(1);
+            actual.Equals(expected);
+        }
+
+        [Test]
+        public void ConvertToRomanTest_9_Equals_IX()
+        {
+            var expected = "IX";
+            var actual = ctr.ConvertRoman(1);
+            actual.Equals(expected);
+        }
+
+
     }
 }
